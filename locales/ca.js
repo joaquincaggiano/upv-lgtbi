@@ -9,7 +9,7 @@ export default {
   centroMedicoTitle: 'Centre Mèdic',
   diversaTitle: 'Espai de Diversat',
   vocabularioTitle: 'Vocabulari',
-  riuNetTitle: 'RiuNet LGTBI',
+  riuNetTitle: 'Recursos RiuNet',
   quizTitle: 'A jugar!',
   anterior: 'Anterior',
   siguiente: 'Següent',
@@ -33,6 +33,8 @@ export default {
   normativaText1: 'Accedix a la normativa',
   normativaText2: 'ací',
   linkNormativa: 'https://www.upv.es/entidades/SA/ciclos/U0930403.pdf',
+
+  riunetLink: 'https://riunet.upv.es/collections/911543c6-52b4-4cb8-acca-6b8035e6cf56',
 
   orientaText: `La Llei valenciana d'igualtat de les persones LGTBI (lesbianes, gais, trans, bisexuals i intersexuals), aprovada el novembre de 2018, preveu la posada en marxa d'un servei públic que atenga la realitat i les necessitats d'aquest col·lectiu i avance en la promoció de la defensa dels seus drets i en la lluita contra la discriminació que puguen patir en l'àmbit social, rural, cultural, laboral, sanitari i educatiu.\n\nAquest és l'objectiu amb el qual naix ORIENTA, l'oficina integral LGTBI de la Generalitat Valenciana, que compta inicialment amb oficines a les ciutats de València, Alacant i Castelló, amb la previsió d'ampliar la presència en altres municipis, a més de disposar de mecanismes per a l'atenció no presencial.`,
 

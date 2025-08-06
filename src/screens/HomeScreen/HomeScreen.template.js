@@ -1,6 +1,6 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
-import { View, Text, TouchableOpacity, Image, StatusBar } from 'react-native';
+import { View, Text, TouchableOpacity, Image, StatusBar, Linking } from 'react-native';
 import styles, { paddingScreens } from '../../styles';
 import Layout from '../../components/Layout/Layout.component';
 import I18n from '../../i18n';
@@ -194,7 +194,8 @@ const HomeScreenTemplate = props => {
             imageStyle={{ width: 67, height: 45 }}
             boxStyle={{ marginRight: marginBetweenBoxes }}
             text={I18n.t('riuNetTitle')}
-            onPress={navigate.bind(undefined, 'RiuNet')}
+            onPress={() => Linking.openURL(I18n.t('riunetLink'))}
+            // onPress={navigate.bind(undefined, 'RiuNet')}
           />
           <Box
             src={require('../../../assets/home/quiz.png')}
