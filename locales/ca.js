@@ -5,7 +5,7 @@ export default {
   serviciosTitle: 'Serveis UPV',
   vactsTitle: 'VACTS',
   gopuTitle: 'Atenció GOPU',
-  unidadIgTitle: "Unitat d'Igualtat i Diversitat",
+  unidadIgTitle: "Unitat d'Igualtat",
   centroMedicoTitle: 'Centre Mèdic',
   diversaTitle: 'Espai de Diversat',
   vocabularioTitle: 'Vocabulari',

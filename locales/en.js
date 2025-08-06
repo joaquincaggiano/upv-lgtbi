@@ -5,7 +5,7 @@ export default {
   serviciosTitle: 'UPV Services',
   vactsTitle: 'VACTS',
   gopuTitle: 'Attention GOPU',
-  unidadIgTitle: 'Equality and Diversity Unit',
+  unidadIgTitle: 'Equality Unit',
   centroMedicoTitle: 'Medical Center',
   diversaTitle: 'UPV Diversity Space',
   vocabularioTitle: 'Vocabulary',
