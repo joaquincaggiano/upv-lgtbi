@@ -23,7 +23,8 @@ export default {
   respuestasCorrectas: 'respuestas correctas',
   noResults: 'No hay resultados',
   fuentes: 'Las fuentes consultadas han sido las siguientes:',
-  fuentesUbi: 'Las fuentes consultadas para este vocabulario se encuentran al final del listado',
+  fuentesUbi:
+    'Las fuentes consultadas para este vocabulario se encuentran al final del listado',
   search: 'Buscar término',
   cancelarConfirm: '¿Seguro que quieres cancelar el juego?',
   siCancelar: 'Sí, cancelar',
@@ -37,7 +38,7 @@ export default {
   gopuText: `Si eres estudiante UPV, acude al Servicio de Orientación Psicopedagógica Universitaria (GOPU). Puedes acceder a asesoramiento psicopedagógico especializado, personalizado y confidencial en temas como:\n\n- Adaptación al contexto universitario.\n\n- Formación en metodología de trabajo y estudio en la UPV.\n\n- Apoyo con temas de carácter personal y/o psicológico: gestión del estrés, superar relaciones interpersonales, mejorar la autoestima...`,
 
   unidadIgText1: `Dirige tus consultas a:`,
-  unidadIgText2: `¿Dónde nos puedes encontrar?\nEdificio 3Q\n1ª planta`,
+  unidadIgText2: `¿Dónde nos puedes encontrar?\nEdificio 4E\nPlanta baja. Acceso desde el pasaje`,
 
   centroMedicoText1: `Centro de Salud Juana Portaceli\nCamino de Vera, s/n 46022 Valencia`,
   centroMedicoText2: `Contacto`,
@@ -50,13 +51,17 @@ export default {
   quizText: `¿Quieres poner a prueba tus conocimientos sobre diversidad sexual y de género? Aquí tienes 10 preguntas cortas con 2 respuestas posibles. Y como en cualquier prueba hay una puntuación siendo 10 el máximo que puedes obtener y 0 la puntuación más baja.\n\n¿Empezamos? ¡¡Adelante!!`,
 
   //PUBLICACIONES RIUNET
-  pub1Title: 'Protocolo de actuación en los supuestos de acoso sexual, acoso por razón de sexo, acoso por orientación sexual y acoso por identidad y expresión de género',
+  pub1Title:
+    'Protocolo de actuación en los supuestos de acoso sexual, acoso por razón de sexo, acoso por orientación sexual y acoso por identidad y expresión de género',
   pub2Title: 'Protocolo de atención a la identidad y expresión de género',
-  pub3Title: 'La realidad de las personas LGTBIQ+ en el empleo. Por una empresa consciente e inclusiva',
+  pub3Title:
+    'La realidad de las personas LGTBIQ+ en el empleo. Por una empresa consciente e inclusiva',
   pub4Title: 'Introducción a los delitos de odio',
-  pub5Title: 'Red de Universidades Públicas Valencianas por la Igualdad y las Diversidades. Principios, objetivos y estructura',
+  pub5Title:
+    'Red de Universidades Públicas Valencianas por la Igualdad y las Diversidades. Principios, objetivos y estructura',
 
-  protocolDescription: 'Si necesitas información, consulta con la Unidad de Igualdad',
+  protocolDescription:
+    'Si necesitas información, consulta con la Unidad de Igualdad',
   protocolDescription2: `Vicerrectorado de\nArte, Ciencia, Tecnología y Sociedad`,
 
   pubDescription: 'Consulta esta y otras publicaciones de interés en',
@@ -214,5 +219,4 @@ export default {
   v_word55_d: `Término usado algunas veces en literatura médica o por algunas personas transgénero, para describir a aquellos que han hecho la transición a través de intervenciones médicas.`,
   v_word56: `Transfobia`,
   v_word56_d: `Cualquier tipo de ideación, actitud o conducta de violencia o discriminación hacia las personas trans.`,
-
-}
+};

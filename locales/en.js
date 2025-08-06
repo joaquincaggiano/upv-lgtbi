@@ -5,12 +5,12 @@ export default {
   serviciosTitle: 'UPV Services',
   vactsTitle: 'VACTS',
   gopuTitle: 'Attention GOPU',
-  unidadIgTitle: 'Equality Unit ',
+  unidadIgTitle: 'Equality and Diversity Unit',
   centroMedicoTitle: 'Medical Center',
   diversaTitle: 'UPV Diversity Space',
   vocabularioTitle: 'Vocabulary',
   riuNetTitle: 'RiuNet LGBTI',
-  quizTitle: 'Let\'s play!',
+  quizTitle: "Let's play!",
   anterior: 'Previous',
   siguiente: 'Next one',
   contesta: 'Answer to advance',
@@ -23,7 +23,8 @@ export default {
   respuestasCorrectas: 'correct answers',
   noResults: 'No results',
   fuentes: 'The sources consulted:',
-  fuentesUbi: 'The sources consulted for this vocabulary are at the end of the list',
+  fuentesUbi:
+    'The sources consulted for this vocabulary are at the end of the list',
   search: 'Term Searcher',
   cancelarConfirm: 'Are you sure you want to cancel the game?',
   siCancelar: 'Yes, cancel',
@@ -38,7 +39,7 @@ export default {
   gopuText: `If you are a UPV student, visit the University Psycho-pedagogical Guidance Service (GOPU). You can access specialised, personalised and confidential psycho-pedagogical advice on topics such as:\n\n- Adaptation to the university context.\n\n- Training in work and study methodology at the UPV.\n\n- Support in stress management, interpersonal relationships, improving self-esteem...`,
 
   unidadIgText1: `Direct your inquiries to:`,
-  unidadIgText2: `Where can you find us?\n3Q building\n1st floor`,
+  unidadIgText2: `Where can you find us?\nBuilding 4E\nGround floor. Access from the passageway`,
 
   centroMedicoText1: `Juana Portaceli Health Center\nCamino de Vera, s/n 46022 Valencia`,
   centroMedicoText2: `Contact`,
@@ -51,11 +52,14 @@ export default {
   quizText: `Do you want to test your knowledge about sexual and gender diversity? Here are 10 short questions with 2 possible answers. As in any test, there is a score, 10 being the maximum you can get and 1 being the lowest score.\n\nShall we start? Let’s Go!!`,
 
   //PUBLICACIONES RIUNET
-  pub1Title: 'Protocol for action in cases of sexual harassment, harassment based on sex, harassment based on sexual orientation and harassment based on gender identity and expression',
+  pub1Title:
+    'Protocol for action in cases of sexual harassment, harassment based on sex, harassment based on sexual orientation and harassment based on gender identity and expression',
   pub2Title: 'Protocol for Attention to Gender Identity and Expression',
-  pub3Title: 'The reality of LGTBIQ+ people in employment. For a conscious and inclusive company',
+  pub3Title:
+    'The reality of LGTBIQ+ people in employment. For a conscious and inclusive company',
   pub4Title: 'Introduction to hate crimes',
-  pub5Title: 'Network of Valencian Public Universities for Equality and Diversity. Principles, objectives and structure',
+  pub5Title:
+    'Network of Valencian Public Universities for Equality and Diversity. Principles, objectives and structure',
 
   protocolDescription: 'If you need information, contact the Equality Unit at',
   protocolDescription2: `Vice-rectorate for\nArt, Science, Technology and Society`,
@@ -214,5 +218,4 @@ export default {
   v_word55_d: `Any ideation, attitude or behaviour of violence or discrimination towards trans people.`,
   v_word56: `Transsexual`,
   v_word56_d: `Term sometimes used in the medical literature, or by some transgender people, to describe those who have transitioned through medical interventions.`,
-
-}
+};

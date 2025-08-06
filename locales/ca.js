@@ -5,7 +5,7 @@ export default {
   serviciosTitle: 'Serveis UPV',
   vactsTitle: 'VACTS',
   gopuTitle: 'Atenció GOPU',
-  unidadIgTitle: 'Unitat d\'Igualtat',
+  unidadIgTitle: "Unitat d'Igualtat i Diversitat",
   centroMedicoTitle: 'Centre Mèdic',
   diversaTitle: 'Espai de Diversat',
   vocabularioTitle: 'Vocabulari',
@@ -23,21 +23,22 @@ export default {
   respuestasCorrectas: 'respostes correctes',
   noResults: 'No hi ha resultats',
   fuentes: 'Les fonts consultades han sigut les següents:',
-  fuentesUbi: 'Les fonts consultades per a aquest vocabulari es troben al final del llistat',
+  fuentesUbi:
+    'Les fonts consultades per a aquest vocabulari es troben al final del llistat',
   search: 'Buscar terme',
   cancelarConfirm: 'Segur que vols cancel·lar el joc?',
   siCancelar: 'Sí, cancel·lar',
   gracias: 'GRÀCIES PER PARTICIPAR',
 
   orientaText: `La Llei valenciana d'igualtat de les persones LGTBI (lesbianes, gais, trans, bisexuals i intersexuals), aprovada el novembre de 2018, preveu la posada en marxa d'un servei públic que atenga la realitat i les necessitats d'aquest col·lectiu i avance en la promoció de la defensa dels seus drets i en la lluita contra la discriminació que puguen patir en l'àmbit social, rural, cultural, laboral, sanitari i educatiu.\n\nAquest és l'objectiu amb el qual naix ORIENTA, l'oficina integral LGTBI de la Generalitat Valenciana, que compta inicialment amb oficines a les ciutats de València, Alacant i Castelló, amb la previsió d'ampliar la presència en altres municipis, a més de disposar de mecanismes per a l'atenció no presencial.`,
-  
+
   vactsSubtitle: `Vicerectorat d’Art, Ciència, Tecnología i Societat`,
   vactsText: `És responsable de la planificació, gestió i control de la política social de la UPV, promou i incentiva la participació universitària.\n\nSota la seua direcció, la Unitat d'Igualtat dissenya, implementa i coordina les accions dirigides a l'efectiva igualtat i no discriminació.`,
 
   gopuText: `Si eres estudiant UPV, acudeix al Servei d'Orientació Psicopedagògica Universitària (GOPU). Pots accedir a assessorament psicopedagògic especialitzat, personalitzat i confidencial en temes com:\n\n- Adaptació al context universitari.\n\n- Formació en metodologia de treball i estudi en la UPV.\n\n- Suport amb temes de caràcter personal i/o psicològic: gestió de l'estrès, superar relacions interpersonals, millorar l'autoestima...`,
 
   unidadIgText1: `Dirigeix les teues consultes a:`,
-  unidadIgText2: `On ens pots trobar?\nEdifici 3Q\n1ª planta`,
+  unidadIgText2: `On ens pots trobar?\nEdifici 4E\nPlanta baixa. Accés des del passatge`,
 
   centroMedicoText1: `Centre de Salut Juana Portaceli\nCamí de Vera s/n 46022 València`,
   centroMedicoText2: `Contacte`,
@@ -55,7 +56,7 @@ export default {
   pub3Title: `La realidad de las personas LGTBIQ+ en el empleo. Por una empresa consciente e inclusiva`,
   pub4Title: `Introducción a los delitos de odio`,
   pub5Title: `Xarxa d'Universitats Públiques Valencianes per la Igualtat i les Diversitats. Principis, objectius i estructura`,
-  
+
   protocolDescription: `Si necessites informació, consulta amb la Unitat d'Igualtat`,
   protocolDescription2: `Vicerectorat\nd’Art, Ciència, Tecnología i Societat`,
   pubDescription: `Consulta aquesta i altres publicacions d'interès en`,
@@ -213,5 +214,4 @@ export default {
   v_word55_d: `Terme usat algunes vegades en literatura mèdica o per algunes persones transgènere, per a descriure aquelles persones que han fet la transició a través d'intervencions mèdiques.`,
   v_word56: `Transfòbia`,
   v_word56_d: `Qualsevol tipus d'ideació, actitud o conducta de violència o discriminació cap a les persones trans.`,
-
-}
+};
