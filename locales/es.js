@@ -30,8 +30,7 @@ export default {
   siCancelar: 'Sí, cancelar',
   gracias: 'GRACIAS POR PARTICIPAR',
 
-  normativaText1: 'Accede a la normativa',
-  normativaText2: 'aquí',
+  normativaText: 'Normativa de convivencia universitaria y de régimen disciplinario de la UPV',
   linkNormativa: 'https://www.upv.es/entidades/SA/ciclos/U0930400.pdf',
 
   riunetLink: 'https://riunet.upv.es/collections/911543c6-52b4-4cb8-acca-6b8035e6cf56',

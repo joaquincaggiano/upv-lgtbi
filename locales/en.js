@@ -30,8 +30,7 @@ export default {
   siCancelar: 'Yes, cancel',
   gracias: 'THANKS FOR PARTICIPATING',
 
-  normativaText1: 'Access the normative',
-  normativaText2: 'here',
+  normativaText: 'UPV regulations on university coexistence and disciplinary measures',
   linkNormativa: 'https://www.upv.es/entidades/SA/ciclos/U0930400.pdf',
 
   riunetLink: 'https://riunet.upv.es/collections/911543c6-52b4-4cb8-acca-6b8035e6cf56',

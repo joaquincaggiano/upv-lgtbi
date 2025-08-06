@@ -68,14 +68,14 @@ const ServiciosScreenTemplate = props => {
         </View>
 
         <View style={{ paddingBottom: 20 }}>
-          <Text style={[styles.text, { textAlign: 'center' }]}>
-            {I18n.t('normativaText1')}{' '}
-            <Text
-              style={[styles.text, { textDecorationLine: 'underline' }]}
-              onPress={() => Linking.openURL(I18n.t('linkNormativa'))}
-            >
-              {I18n.t('normativaText2')}
-            </Text>
+          <Text
+            style={[
+              styles.text,
+              { textAlign: 'center', textDecorationLine: 'underline' },
+            ]}
+            onPress={() => Linking.openURL(I18n.t('linkNormativa'))}
+          >
+            {I18n.t('normativaText')}
           </Text>
         </View>
       </View>
