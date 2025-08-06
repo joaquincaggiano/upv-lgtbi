@@ -6,9 +6,9 @@ import I18n from '../../../i18n';
 export default class UnidadIgScreen extends React.PureComponent {
   constructor(props) {
     super(props);
-    this.state = {
-      loading: true,
-    };
+    // this.state = {
+    //   loading: true,
+    // };
   }
 
   goBack = () => this.props.navigation.goBack();
@@ -17,15 +17,15 @@ export default class UnidadIgScreen extends React.PureComponent {
     Linking.openURL('https://www.upv.es/entidades/UI/index-' + lang + '.html');
   };
 
-  setLoading = loading => setTimeout(() => this.setState({loading}), 250);
+  // setLoading = loading => setTimeout(() => this.setState({loading}), 250);
 
   render() {
     return (
       <UnidadIgScreenTemplate
         goBack={this.goBack}
         openLink={this.openLink}
-        loading={this.state.loading}
-        setLoading={this.setLoading}
+        // loading={this.state.loading}
+        // setLoading={this.setLoading}
       />
     );
   }
