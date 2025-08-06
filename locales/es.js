@@ -30,6 +30,10 @@ export default {
   siCancelar: 'Sí, cancelar',
   gracias: 'GRACIAS POR PARTICIPAR',
 
+  normativaText1: 'Accede a la normativa',
+  normativaText2: 'aquí',
+  linkNormativa: 'https://www.upv.es/entidades/SA/ciclos/U0930400.pdf',
+
   orientaText: `La Ley valenciana de igualdad de las personas LGTBI (lesbianas, gais, trans, bisexuales e intersexuales), aprobada en noviembre de 2018, prevé la puesta en marcha de un servicio público que atienda la realidad y las necesidades de este colectivo y avance en la promoción de la defensa de sus derechos y en la lucha contra la discriminación que puedan sufrir en el ámbito social, rural, cultural, laboral, sanitario y educativo.\n\nEste es el objetivo con el que nace ORIENTA, la oficina integral LGTBI de la Generalitat Valenciana, que cuenta inicialmente con oficinas en las ciudades de València, Alicante y Castelló, con la previsión de ampliar la presencia en otros municipios, además de disponer de mecanismos para la atención no presencial.`,
 
   vactsSubtitle: `Vicerrectorado de Arte, Ciencia, Tecnología y Sociedad`,

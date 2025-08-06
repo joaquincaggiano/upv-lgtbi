@@ -30,6 +30,10 @@ export default {
   siCancelar: 'Yes, cancel',
   gracias: 'THANKS FOR PARTICIPATING',
 
+  normativaText1: 'Access the normative',
+  normativaText2: 'here',
+  linkNormativa: 'https://www.upv.es/entidades/SA/ciclos/U0930400.pdf',
+
   orientaText:
     'The Valencian law on Equality for LGTBI people (lesbians, gays, trans, bisexuals and intersex), approved in November 2018, provides for the implementation of a public service that meets the reality and needs of this group and advances in the promotion of the defence of their rights and in the fight against discrimination that they may suffer in the social, rural, cultural, labour, health, and educational spheres.\n\nThis is the objective with which ORIENTA was born, the integral LGTBI office of the Generalitat Valenciana, which initially has offices in the cities of Valencia, Alicante and Castellón, with the forecast of expanding its presence in other municipalities as well as having mechanisms for non-face care.',
 
