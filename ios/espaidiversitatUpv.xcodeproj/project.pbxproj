@@ -8,31 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		34E235E6DCFCE0580ADB16D0 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 55A1A30B8472A7050878B331 /* PrivacyInfo.xcprivacy */; };
 		62F4F0C44219455DBD37A370 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA408C93FBB3438BBB53C0B3 /* Nunito-Bold.ttf */; };
 		69803CB2271ED184002FD0BD /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69803CB1271ED184002FD0BD /* BootSplash.storyboard */; };
 		69C6A0F4274CFD350067F5C4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 69C6A0F6274CFD350067F5C4 /* InfoPlist.strings */; };
+		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		83C51B921961467C89BC0226 /* libPods-espaidiversitatUpv.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B946D2DAAE4A311541ADAA2E /* libPods-espaidiversitatUpv.a */; };
 		C432E551D4E14F1AB134B3AA /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D855AD8C506242DAACE09C58 /* Nunito-Regular.ttf */; };
 		C621E686B60E482D9991BEC9 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 713194C125AB413899FB56BC /* Colors.xcassets */; };
 		C702F61AC9C54ADB912C9C4F /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E344A724A7D48999427F5F3 /* Nunito-SemiBold.ttf */; };
-		D0073BED2E1A1AE386E56921 /* libPods-espaidiversitatUpv-espaidiversitatUpvTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F44AFEE5E3DCBC167C8E739 /* libPods-espaidiversitatUpv-espaidiversitatUpvTests.a */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = espaidiversitatUpv;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* espaidiversitatUpv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = espaidiversitatUpv.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = espaidiversitatUpv/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = espaidiversitatUpv/Info.plist; sourceTree = "<group>"; };
@@ -47,8 +35,8 @@
 		69FD67842A39B16E0084C34C /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		6F44AFEE5E3DCBC167C8E739 /* libPods-espaidiversitatUpv-espaidiversitatUpvTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-espaidiversitatUpv-espaidiversitatUpvTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		713194C125AB413899FB56BC /* Colors.xcassets */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = folder.assetcatalog; name = Colors.xcassets; path = espaidiversitatUpv/Colors.xcassets; sourceTree = "<group>"; };
+		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = espaidiversitatUpv/AppDelegate.swift; sourceTree = "<group>"; };
 		769EF1BF502205A3B2C3C9AC /* Pods-espaidiversitatUpv.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-espaidiversitatUpv.release.xcconfig"; path = "Target Support Files/Pods-espaidiversitatUpv/Pods-espaidiversitatUpv.release.xcconfig"; sourceTree = "<group>"; };
-		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = RnDiffApp/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = espaidiversitatUpv/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F6CC249BD5495AC228BBD8E /* Pods-espaidiversitatUpv.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-espaidiversitatUpv.debug.xcconfig"; path = "Target Support Files/Pods-espaidiversitatUpv/Pods-espaidiversitatUpv.debug.xcconfig"; sourceTree = "<group>"; };
 		B946D2DAAE4A311541ADAA2E /* libPods-espaidiversitatUpv.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-espaidiversitatUpv.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,14 +57,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356F01AD99517003FC87E /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				00E356F11AD99517003FC87E /* Info.plist */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		13B07FAE1A68108700A75B9A /* espaidiversitatUpv */ = {
 			isa = PBXGroup;
 			children = (
@@ -212,13 +192,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		00E356EC1AD99517003FC87E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		13B07F8E1A680F5B00A75B9A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -254,45 +227,6 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		0745FF7F4C75949F3273294A /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		3817CE67ECD0C95367D036DF /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-espaidiversitatUpv-espaidiversitatUpvTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		82974E4605F247B24C6374E3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -313,23 +247,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9493C86B88760B5E8B76F796 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-espaidiversitatUpv-espaidiversitatUpvTests/Pods-espaidiversitatUpv-espaidiversitatUpvTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		978EC55FB79B3B734AC1D7FD /* [CP] Embed Pods Frameworks */ = {
@@ -379,14 +296,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* espaidiversitatUpv */;
-			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
 		69C6A0F6274CFD350067F5C4 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
@@ -416,9 +325,9 @@
 				ENABLE_BITCODE = NO;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				INFOPLIST_FILE = espaidiversitatUpv/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				INFOPLIST_KEY_CFBundleDisplayName = "UPV Diversitat";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -457,9 +366,9 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = DK99LX7MJZ;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				INFOPLIST_FILE = espaidiversitatUpv/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				INFOPLIST_KEY_CFBundleDisplayName = "UPV Diversitat";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -554,6 +463,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				USE_HERMES = true;
 			};
 			name = Debug;
