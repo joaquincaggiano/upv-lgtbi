@@ -33,6 +33,10 @@ local.properties
 .cxx/
 .kotlin/
 
+# Android keystore files
+android/app/my-upload-key.keystore
+
+
 # node.js
 #
 node_modules/
