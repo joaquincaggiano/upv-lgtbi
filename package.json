@@ -6,6 +6,12 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
+    "start:reset": "react-native start --reset-cache",
+    "pod": "bundle exec pod install --project-directory=ios",
+    "pod:update": "bundle exec pod install --project-directory=ios --repo-update",
+    "clean:android": "cd android && ./gradlew clean",
+    "clean:ios": "cd ios && xcodebuild clean -workspace espaidiversitatUpv.xcworkspace -scheme espaidiversitatUpv",
+    "clean": "yarn clean:android && yarn pod",
     "test": "jest",
     "lint": "eslint .",
     "change-bootsplash": "node ./scripts/change-bootsplash.js"
