@@ -5926,7 +5926,7 @@ __metadata:
     react-native-bootsplash: "npm:^6.3.10"
     react-native-modal: "npm:^13.0.1"
     react-native-safe-area-context: "npm:^5.5.2"
-    react-native-screens: "npm:^4.13.1"
+    react-native-screens: "npm:^4.26.2"
     react-native-webview: "npm:^13.15.0"
     react-test-renderer: "npm:19.2.3"
     typescript: "npm:^5.8.3"
@@ -9842,17 +9842,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-screens@npm:^4.13.1":
-  version: 4.13.1
-  resolution: "react-native-screens@npm:4.13.1"
+"react-native-screens@npm:^4.26.2":
+  version: 4.26.2
+  resolution: "react-native-screens@npm:4.26.2"
   dependencies:
     react-freeze: "npm:^1.0.0"
-    react-native-is-edge-to-edge: "npm:^1.2.1"
     warn-once: "npm:^0.1.0"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10c0/7168228da8fe54fce59a31a15ace5b83d91e2cf205d5be4e6306cc749151cee50162bd0c74e163f38d25bf957153a5ea9e6d91cf9ef6aac8a0c0d5b4ba0d93af
+  checksum: 10c0/3cdc702d8e21c63331e306a2b971307d5d9e13df52d94f435c5bb8d5dcf09fed00f4ef788e85ba87fae1ba5b155f4cdc2ee177a70f1f512adff73f94eef844d1
   languageName: node
   linkType: hard
 
