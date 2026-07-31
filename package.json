@@ -7,11 +7,9 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "start:reset": "react-native start --reset-cache",
-    "pod": "bundle exec pod install --project-directory=ios",
-    "pod:update": "bundle exec pod install --project-directory=ios --repo-update",
     "clean:android": "cd android && ./gradlew clean",
     "clean:ios": "cd ios && xcodebuild clean -workspace espaidiversitatUpv.xcworkspace -scheme espaidiversitatUpv",
-    "clean": "yarn clean:android && yarn pod",
+    "clean": "yarn clean:android && yarn clean:ios",
     "test": "jest",
     "lint": "eslint .",
     "change-bootsplash": "node ./scripts/change-bootsplash.js"
@@ -26,7 +24,7 @@
     "react-native": "0.86.2",
     "react-native-bootsplash": "^6.3.10",
     "react-native-modal": "^13.0.1",
-    "react-native-safe-area-context": "^5.5.2",
+    "react-native-safe-area-context": "^5.6.1",
     "react-native-screens": "^4.26.2",
     "react-native-webview": "^13.15.0"
   },
